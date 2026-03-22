@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "number_guesser_gordon_ramsay_edition/1.0.0": {
+        "runtime": {
+          "number_guesser_gordon_ramsay_edition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "number_guesser_gordon_ramsay_edition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
