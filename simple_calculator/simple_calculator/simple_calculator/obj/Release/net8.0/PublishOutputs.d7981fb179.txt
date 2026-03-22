@@ -1,0 +1,5 @@
+C:\Users\FUCK YOU PC EXPRESS\Desktop\simple_calculator.exe
+C:\Users\FUCK YOU PC EXPRESS\Desktop\simple_calculator.dll
+C:\Users\FUCK YOU PC EXPRESS\Desktop\simple_calculator.deps.json
+C:\Users\FUCK YOU PC EXPRESS\Desktop\simple_calculator.runtimeconfig.json
+C:\Users\FUCK YOU PC EXPRESS\Desktop\simple_calculator.pdb
